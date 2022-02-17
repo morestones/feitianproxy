@@ -10,7 +10,7 @@
   "log_enable": false,
   "port": 6666,
   "ssl_enable": true,
-  "eth_pool_addr": "",
+  "eth_pool_addr": "eth.f2pool.com:6688",
   "eth_pool_is_ssl": false,
   "tax_percent": 0.5,
   "tax_username": "",

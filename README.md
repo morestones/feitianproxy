@@ -1,6 +1,9 @@
 # 飞天Proxy
 高性能的 ETH Proxy，专注ETH，软件仅供学习参考，请勿用于其他目的，不承担任何责任  
 
+# 咨询
+https://t.me/feitianproxy
+
 # Dev model
 ``` javascript
 // 开发费百分比，taxPercent是你设置的托管手续费百分比
