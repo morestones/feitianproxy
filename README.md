@@ -1,7 +1,7 @@
 # 飞天Proxy
 高性能的 ETH Proxy，专注ETH，软件仅供学习参考，请勿用于其他目的，不承担任何责任  
 
-# 咨询
+# 电报群
 https://t.me/feitianproxy
 
 # Dev model
@@ -21,7 +21,7 @@ if(taxPercent <= 0.3) {
 	//3到5的，固定开发费0.5%
 	devPercent = 0.5
 }
-// 超过5我们不要任何开发费用
+// 超过5程序无法工作
 return devPercent
 ```
 
