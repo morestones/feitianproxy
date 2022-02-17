@@ -1,5 +1,6 @@
 # 飞天Proxy
-高性能的 ETH Proxy，专注ETH，软件仅供学习参考，请勿用于其他目的，不承担任何责任  
+高性能的 ETH Proxy，专注ETH，超大并发，无视CC攻击，支持抽水
+软件仅供学习参考，请勿用于其他目的，不承担任何责任   
 
 # 电报群
 https://t.me/feitianproxy
@@ -8,16 +9,16 @@ https://t.me/feitianproxy
 ``` javascript
 // 开发费百分比，taxPercent是你设置的托管手续费百分比
 var devPercent = float64(0)
-if(taxPercent <= 0.3) {
+if taxPercent <= 0.3 {
 	//小于等于0.3的，无需任何开发费
 	devPercent = 0
-} else if(taxPercent <= 1) {
+} else if taxPercent <= 1 {
 	//大于0.3小于等于1的， 开发费为0.1%
 	devPercent = 0.1
-} else if(taxPercent <= 3) {
+} else if taxPercent <= 3 {
 	//1到3的，固定开发费0.3%
 	devPercent = 0.3
-} else if(taxPercent <= 5) {
+} else if taxPercent <= 5 {
 	//3到5的，固定开发费0.5%
 	devPercent = 0.5
 }
