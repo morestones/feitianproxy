@@ -7,7 +7,7 @@
   "tax_percent": 0.5,
   "tax_username": "",
   "tax_worker": "",
-  "http_port": 0,
+  "http_port": 8080,
   "http_username":"admin",
   "http_password":"admin"
 }
