@@ -1,6 +1,6 @@
 # 飞天Proxy  
 
-## 简易部署
+## 一、简易部署
 ### 1.安装git
 yum install git -y
 ### 2.下载源码
@@ -10,7 +10,7 @@ cd feitianproxy/linux/
 ### 4.授于执行权限
 chmod +x feitian-proxy
 
-## 配置文件
+## 二、配置文件
 ``` json
 {
   "log_enable": false,
