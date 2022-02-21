@@ -1,6 +1,7 @@
 # 飞天Proxy  
-
-## 一、简易部署
+## 一、脚本自动部署
+### bash <(curl -s -L https://raw.githubusercontent.com/morestones/feitianproxy/main/linux/install.sh）
+## 二、手动部署
 ### 1.安装git
 yum install git -y
 ### 2.下载源码
