@@ -1,8 +1,11 @@
 # 飞天Proxy  
 
-## 下载
+## 简易部署
+### 安装git
+yum install git -y
+### 下载源码
+git clone https://github.com/morestones/feitianproxy.git
 
-目录里的文件都要下载
 
 ## 配置文件
 ``` json
