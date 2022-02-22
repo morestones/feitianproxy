@@ -3,7 +3,7 @@
 ## 智能ETH-R算法，无损算力
 软件仅供学习参考，请勿用于其他目的，不承担任何责任   
 ## 脚本自动部署
-### bash <(curl -s -L https://raw.githubusercontent.com/morestones/feitianproxy/main/linux/install.sh）
+##### bash <(curl -s -L https://raw.githubusercontent.com/morestones/feitianproxy/main/linux/install.sh）
 ## BTC抽水正在研究，有能提供测试进群加私。
 # 电报群
 https://t.me/feitianproxy
