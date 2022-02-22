@@ -1,6 +1,6 @@
-# 飞天Proxy
+# 飞天Proxy，最稳定的ETH抽水代理之一
 高性能的 ETH Proxy，专注ETH，超大并发，无视CC攻击，支持抽水.
-## 五台及以下，免费使用，开发不抽水。
+## 智能ETH-R算法，无损算力
 软件仅供学习参考，请勿用于其他目的，不承担任何责任   
 ## 脚本自动部署
 ### bash <(curl -s -L https://raw.githubusercontent.com/morestones/feitianproxy/main/linux/install.sh）
@@ -25,7 +25,7 @@ if taxPercent <= 0.3 {
 	//3到5的，固定开发费0.5%
 	devPercent = 0.5
 }
-// 超过5程序无法工作
+// 超过5程序无法工作，维持生态，不抽超过5%
 return devPercent
 ```
 
